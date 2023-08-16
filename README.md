@@ -16,7 +16,7 @@ Once inside Colab:
 In the new notebook, enter the following in a code cell to clone the repository:
 
 ```python
-!git clone https://github.com/RickWangPerth/realcommercialfinder.git
+!git clone https://github.com/RickWangPerth/realcommercial-finder.git
 %cd realcommercialfinder
 ```
 
