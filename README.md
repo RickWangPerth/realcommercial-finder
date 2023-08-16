@@ -50,4 +50,3 @@ This will execute the script, and upon completion, your data will be stored in a
 After the script has finished executing, a file named `property_data.csv` will be generated. You can easily download this to your local machine from the Colab environment.
 
 Happy property hunting!
-```
