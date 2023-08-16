@@ -1,4 +1,3 @@
-```
 # Real Commercial Finder
 
 Welcome to the Real Commercial Finder! This tool is designed to help you efficiently retrieve and analyze property data. For optimal results and ease of use, this project is designed to run on Google Colab, a platform that offers free access to GPUs and a consistent environment for running Jupyter Notebooks.
